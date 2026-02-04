@@ -1,1 +1,16 @@
+# WordPress core
+/wp-admin/
+/wp-includes/
+/wp-content/uploads/
+
+# Config
 wp-config.php
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Node / build
+node_modules/
+dist/
