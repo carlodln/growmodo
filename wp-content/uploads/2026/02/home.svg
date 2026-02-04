@@ -1,0 +1,33 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 82 82" width="82" height="82">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(79,-92,92,79,6.75,86.5)">
+			<stop offset="0" stop-color="#a685fa" stop-opacity="1"/>
+			<stop offset=".324" stop-color="#a685fa" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-75,92.5,-92.5,-75,81.75,-10.5)">
+			<stop offset="0" stop-color="#a685fa" stop-opacity="1"/>
+			<stop offset=".577" stop-color="#a685fa" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(68.5,58.5,-58.5,68.5,3.25,13.5)">
+			<stop offset="0" stop-color="#a685fa" stop-opacity="1"/>
+			<stop offset=".324" stop-color="#a685fa" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-72,-51,51,-72,84.25,86)">
+			<stop offset="0" stop-color="#a685fa" stop-opacity="1"/>
+			<stop offset=".577" stop-color="#a685fa" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: url(#g1) } 
+		.s1 { fill: none;stroke: url(#g2) } 
+		.s2 { fill: none;stroke: url(#g3) } 
+		.s3 { fill: none;stroke: url(#g4) } 
+		.s4 { fill: #a685fa } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m41 0.5c22.37 0 40.5 18.13 40.5 40.5 0 22.37-18.13 40.5-40.5 40.5-22.37 0-40.5-18.13-40.5-40.5 0-22.37 18.13-40.5 40.5-40.5z"/>
+	<path fill-rule="evenodd" class="s1" d="m41 0.5c22.37 0 40.5 18.13 40.5 40.5 0 22.37-18.13 40.5-40.5 40.5-22.37 0-40.5-18.13-40.5-40.5 0-22.37 18.13-40.5 40.5-40.5z"/>
+	<path fill-rule="evenodd" class="s2" d="m41 10.5c16.84 0 30.5 13.66 30.5 30.5 0 16.84-13.66 30.5-30.5 30.5-16.84 0-30.5-13.66-30.5-30.5 0-16.84 13.66-30.5 30.5-30.5z"/>
+	<path fill-rule="evenodd" class="s3" d="m41 10.5c16.84 0 30.5 13.66 30.5 30.5 0 16.84-13.66 30.5-30.5 30.5-16.84 0-30.5-13.66-30.5-30.5 0-16.84 13.66-30.5 30.5-30.5z"/>
+	<path class="s4" d="m28.89 36.11c2 1.99 5.22 1.99 7.22 0q0.36-0.37 0.64-0.79c0.91 1.37 2.48 2.28 4.25 2.28 1.77 0 3.34-0.91 4.25-2.28q0.28 0.42 0.64 0.79c2 1.99 5.23 1.99 7.22 0 1.99-2 1.99-5.22 0-7.22l-0.5-0.49c-0.64-0.64-1.5-1-2.4-1h-18.41c-0.91 0-1.77 0.36-2.41 1l-0.5 0.49c-1.99 2-1.99 5.22 0 7.22z"/>
+	<path class="s4" d="m29.1 39.35c2.43 1.21 5.36 1.04 7.65-0.49 1.22 0.81 2.68 1.29 4.25 1.29 1.57 0 3.03-0.48 4.25-1.29 2.29 1.53 5.22 1.7 7.65 0.5v12.69h0.42c0.71 0 1.28 0.57 1.28 1.28 0 0.7-0.57 1.27-1.28 1.27h-7.65c-0.7 0-1.27-0.57-1.27-1.27v-5.96c0-0.7-0.57-1.27-1.28-1.27h-4.25c-0.7 0-1.27 0.57-1.27 1.27v5.96c0 0.7-0.57 1.27-1.28 1.27h-7.65c-0.7 0-1.27-0.57-1.27-1.27 0-0.71 0.57-1.28 1.27-1.28h0.43z"/>
+</svg>
